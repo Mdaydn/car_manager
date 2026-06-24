@@ -1,0 +1,14 @@
+{
+  "name": "stock-and-loan-movement-system",
+  "version": "1.0.0",
+  "description": "Stock and Loan Movement Management System using Node.js, React, and MongoDB",
+  "scripts": {
+    "backend": "cd backend && node server.js",
+    "frontend": "cd frontend && npm run dev",
+    "seed": "cd backend && node scripts/seed.js",
+    "test-backend": "cd backend && node tests/test_flow.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
